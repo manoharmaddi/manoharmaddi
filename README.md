@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manoharmaddi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning react.js and next.js
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me manucse44@gmail.com
 
 <!---
