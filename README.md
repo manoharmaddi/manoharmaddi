@@ -9,7 +9,7 @@ CS student interested in learning new technologies, newbie to programming 
 *   🌍  I'm based in hyderabad
 *   ✉️  You can contact me at [manoharpavan13@gmail.com](mailto:manoharpavan13@gmail.com)
 *   🧠  I'm learning Full Stack Development
-*   🤝  I'm open to collaborating on Front End Projects### Skills 
+*   🤝  I'm open to collaborating on Front End Projects
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
